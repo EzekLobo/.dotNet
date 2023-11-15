@@ -1,0 +1,14 @@
+C:\Users\Acer\OneDrive\Área de Trabalho\residencia\.dotNet\problema-05\bin\Debug\net7.0\problema-05.exe
+C:\Users\Acer\OneDrive\Área de Trabalho\residencia\.dotNet\problema-05\bin\Debug\net7.0\problema-05.deps.json
+C:\Users\Acer\OneDrive\Área de Trabalho\residencia\.dotNet\problema-05\bin\Debug\net7.0\problema-05.runtimeconfig.json
+C:\Users\Acer\OneDrive\Área de Trabalho\residencia\.dotNet\problema-05\bin\Debug\net7.0\problema-05.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\residencia\.dotNet\problema-05\bin\Debug\net7.0\problema-05.pdb
+C:\Users\Acer\OneDrive\Área de Trabalho\residencia\.dotNet\problema-05\obj\Debug\net7.0\problema-05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Área de Trabalho\residencia\.dotNet\problema-05\obj\Debug\net7.0\problema-05.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Área de Trabalho\residencia\.dotNet\problema-05\obj\Debug\net7.0\problema-05.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Área de Trabalho\residencia\.dotNet\problema-05\obj\Debug\net7.0\problema-05.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Área de Trabalho\residencia\.dotNet\problema-05\obj\Debug\net7.0\problema-05.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\residencia\.dotNet\problema-05\obj\Debug\net7.0\refint\problema-05.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\residencia\.dotNet\problema-05\obj\Debug\net7.0\problema-05.pdb
+C:\Users\Acer\OneDrive\Área de Trabalho\residencia\.dotNet\problema-05\obj\Debug\net7.0\problema-05.genruntimeconfig.cache
+C:\Users\Acer\OneDrive\Área de Trabalho\residencia\.dotNet\problema-05\obj\Debug\net7.0\ref\problema-05.dll
