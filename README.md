@@ -21,6 +21,10 @@ Segurança e AutenƟcação. Padrão MVC (Model-View-Controller) em C# .NET Core
 ## Atividades Realizadas
 
 ## Branch: NET-P001
+- Descrição: Apresentação do curso e introdução ao desenvolvimento 
+backend em C# .NET Core. Configuração do ambiente de 
+desenvolvimento: Instalação do .NET Core SDK e IDE. 
+
 01. Configuração do Ambiente
 02. Tipos de Dados
 03. Conversão de Tipos de Dados
