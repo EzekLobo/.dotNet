@@ -1,0 +1,14 @@
+C:\Users\Acer\OneDrive\Área de Trabalho\residencia\.dotNet\gerenciamentoEstoque\bin\Debug\net7.0\gerenciamentoEstoque.exe
+C:\Users\Acer\OneDrive\Área de Trabalho\residencia\.dotNet\gerenciamentoEstoque\bin\Debug\net7.0\gerenciamentoEstoque.deps.json
+C:\Users\Acer\OneDrive\Área de Trabalho\residencia\.dotNet\gerenciamentoEstoque\bin\Debug\net7.0\gerenciamentoEstoque.runtimeconfig.json
+C:\Users\Acer\OneDrive\Área de Trabalho\residencia\.dotNet\gerenciamentoEstoque\bin\Debug\net7.0\gerenciamentoEstoque.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\residencia\.dotNet\gerenciamentoEstoque\bin\Debug\net7.0\gerenciamentoEstoque.pdb
+C:\Users\Acer\OneDrive\Área de Trabalho\residencia\.dotNet\gerenciamentoEstoque\obj\Debug\net7.0\gerenciamentoEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Área de Trabalho\residencia\.dotNet\gerenciamentoEstoque\obj\Debug\net7.0\gerenciamentoEstoque.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Área de Trabalho\residencia\.dotNet\gerenciamentoEstoque\obj\Debug\net7.0\gerenciamentoEstoque.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Área de Trabalho\residencia\.dotNet\gerenciamentoEstoque\obj\Debug\net7.0\gerenciamentoEstoque.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Área de Trabalho\residencia\.dotNet\gerenciamentoEstoque\obj\Debug\net7.0\gerenciamentoEstoque.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\residencia\.dotNet\gerenciamentoEstoque\obj\Debug\net7.0\refint\gerenciamentoEstoque.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\residencia\.dotNet\gerenciamentoEstoque\obj\Debug\net7.0\gerenciamentoEstoque.pdb
+C:\Users\Acer\OneDrive\Área de Trabalho\residencia\.dotNet\gerenciamentoEstoque\obj\Debug\net7.0\gerenciamentoEstoque.genruntimeconfig.cache
+C:\Users\Acer\OneDrive\Área de Trabalho\residencia\.dotNet\gerenciamentoEstoque\obj\Debug\net7.0\ref\gerenciamentoEstoque.dll
