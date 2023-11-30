@@ -16,7 +16,7 @@ class Program
 
         List<Cliente> clientes = new List<Cliente>
         {
-            new Cliente("João", new DateTime(1988, 3, 25), "1112233344", EstadoCivil.Solteiro, "Engenheiro"),
+            new Cliente("João", new DateTime(1988, 3, 25), "11122333444", EstadoCivil.Solteiro, "Engenheiro"),
             new Cliente("Ana", new DateTime(1995, 8, 10), "55566677788", EstadoCivil.Casado, "Médico")
         };
 
