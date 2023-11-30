@@ -20,6 +20,20 @@ public class EscritorioAdvocacia
             Console.WriteLine("CPF ou CNA já existentes. Advogado não adicionado.");
         }
     }
+
+    
+    public void AdicionarCliente(Cliente cliente)
+    {
+        if (!clientes.Any(c => c.CPF == cliente.CPF))
+        {
+            clientes.Add(cliente);
+            Console.WriteLine($"Cliente {cliente.Nome} adicionado com sucesso.");
+        }
+        else
+        {
+            Console.WriteLine("CPF já existente. Cliente não adicionado.");
+        }
+    }
       
        public IEnumerable<Advogado> ObterAdvogadosPorIdade(int idadeMinima, int idadeMaxima)
     {
