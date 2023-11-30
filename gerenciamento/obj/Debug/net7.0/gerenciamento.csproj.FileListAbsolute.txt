@@ -3,3 +3,17 @@
 /home/ezequiel-lobo-oliveira/Área de trabalho/.dotNet/gerenciamento/obj/Debug/net7.0/gerenciamento.AssemblyInfoInputs.cache
 /home/ezequiel-lobo-oliveira/Área de trabalho/.dotNet/gerenciamento/obj/Debug/net7.0/gerenciamento.AssemblyInfo.cs
 /home/ezequiel-lobo-oliveira/Área de trabalho/.dotNet/gerenciamento/obj/Debug/net7.0/gerenciamento.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Área de Trabalho\residencia\.dotNet\gerenciamento\bin\Debug\net7.0\gerenciamento.exe
+C:\Users\Acer\OneDrive\Área de Trabalho\residencia\.dotNet\gerenciamento\bin\Debug\net7.0\gerenciamento.deps.json
+C:\Users\Acer\OneDrive\Área de Trabalho\residencia\.dotNet\gerenciamento\bin\Debug\net7.0\gerenciamento.runtimeconfig.json
+C:\Users\Acer\OneDrive\Área de Trabalho\residencia\.dotNet\gerenciamento\bin\Debug\net7.0\gerenciamento.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\residencia\.dotNet\gerenciamento\bin\Debug\net7.0\gerenciamento.pdb
+C:\Users\Acer\OneDrive\Área de Trabalho\residencia\.dotNet\gerenciamento\obj\Debug\net7.0\gerenciamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Área de Trabalho\residencia\.dotNet\gerenciamento\obj\Debug\net7.0\gerenciamento.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Área de Trabalho\residencia\.dotNet\gerenciamento\obj\Debug\net7.0\gerenciamento.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Área de Trabalho\residencia\.dotNet\gerenciamento\obj\Debug\net7.0\gerenciamento.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Área de Trabalho\residencia\.dotNet\gerenciamento\obj\Debug\net7.0\gerenciamento.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\residencia\.dotNet\gerenciamento\obj\Debug\net7.0\refint\gerenciamento.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\residencia\.dotNet\gerenciamento\obj\Debug\net7.0\gerenciamento.pdb
+C:\Users\Acer\OneDrive\Área de Trabalho\residencia\.dotNet\gerenciamento\obj\Debug\net7.0\gerenciamento.genruntimeconfig.cache
+C:\Users\Acer\OneDrive\Área de Trabalho\residencia\.dotNet\gerenciamento\obj\Debug\net7.0\ref\gerenciamento.dll
