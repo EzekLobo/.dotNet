@@ -1,0 +1,5 @@
+/home/ezequiel-lobo-oliveira/Área de trabalho/.dotNet/gerenciamento/obj/Debug/net7.0/gerenciamento.csproj.AssemblyReference.cache
+/home/ezequiel-lobo-oliveira/Área de trabalho/.dotNet/gerenciamento/obj/Debug/net7.0/gerenciamento.GeneratedMSBuildEditorConfig.editorconfig
+/home/ezequiel-lobo-oliveira/Área de trabalho/.dotNet/gerenciamento/obj/Debug/net7.0/gerenciamento.AssemblyInfoInputs.cache
+/home/ezequiel-lobo-oliveira/Área de trabalho/.dotNet/gerenciamento/obj/Debug/net7.0/gerenciamento.AssemblyInfo.cs
+/home/ezequiel-lobo-oliveira/Área de trabalho/.dotNet/gerenciamento/obj/Debug/net7.0/gerenciamento.csproj.CoreCompileInputs.cache

@@ -49,9 +49,18 @@ public class EscritorioDeAdvocacia
         clientes = new List<Cliente>();
     }
 
-    public void AdicionarA
+    public void AdicionarAdvogado(Advogado advogado)
+    {
+        advogados.Add(advogado);
+    }
+public void AdicionarCliente(Cliente cliente)
+    {
+        clientes.Add(cliente);
+    }
 
 
 
 
+
+}
 }
