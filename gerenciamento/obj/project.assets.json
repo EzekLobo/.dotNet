@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/home/ezequiel-lobo-oliveira/.nuget/packages/": {}
+    "C:\\Users\\Acer\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ezequiel-lobo-oliveira/Área de trabalho/.dotNet/gerenciamento/gerenciamento.csproj",
+      "projectUniqueName": "C:\\Users\\Acer\\OneDrive\\Área de Trabalho\\residencia\\.dotNet\\gerenciamento\\gerenciamento.csproj",
       "projectName": "gerenciamento",
-      "projectPath": "/home/ezequiel-lobo-oliveira/Área de trabalho/.dotNet/gerenciamento/gerenciamento.csproj",
-      "packagesPath": "/home/ezequiel-lobo-oliveira/.nuget/packages/",
-      "outputPath": "/home/ezequiel-lobo-oliveira/Área de trabalho/.dotNet/gerenciamento/obj/",
+      "projectPath": "C:\\Users\\Acer\\OneDrive\\Área de Trabalho\\residencia\\.dotNet\\gerenciamento\\gerenciamento.csproj",
+      "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Acer\\OneDrive\\Área de Trabalho\\residencia\\.dotNet\\gerenciamento\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/ezequiel-lobo-oliveira/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.114/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }
