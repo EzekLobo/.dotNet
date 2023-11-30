@@ -20,7 +20,22 @@ public class EscritorioAdvocacia
             Console.WriteLine("CPF ou CNA já existentes. Advogado não adicionado.");
         }
     }
-      //lembrar dos bagulho aqui
+      
+       public IEnumerable<Advogado> ObterAdvogadosPorIdade(int idadeMinima, int idadeMaxima)
+    {
+        return advogados.Where(a => CalcularIdade(a.DataNascimento) >= idadeMinima && CalcularIdade(a.DataNascimento) <= idadeMaxima);
+    }
+
+    public IEnumerable<Cliente> ObterClientesPorIdade(int idadeMinima, int idadeMaxima)
+    {
+        return clientes.Where(c => CalcularIdade(c.DataNascimento) >= idadeMinima && CalcularIdade(c.DataNascimento) <= idadeMaxima);
+    }
+
+    public IEnumerable<Cliente> ObterClientesPorEstadoCivil(EstadoCivil estadoCivil)
+    {
+        return clientes.Where(c => c.EstadoCivil == estadoCivil);
+    }
+
     
 
     private int CalcularIdade(DateTime dataNascimento)
