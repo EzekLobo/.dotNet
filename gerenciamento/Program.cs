@@ -1,21 +1,24 @@
 ﻿
-public class Program{
-    public class Pessoa
+using System;
+using System.Collections.Generic;
+
+class Program
 {
-    public string Nome { get; set; }
-    public DateTime DataNascimento { get; set; }
-    public string CPF { get; set; }
-
-    public Pessoa(string nome, DateTime dataNascimento, string cpf)
+    static void Main()
     {
-        Nome = nome;
-        DataNascimento = dataNascimento;
-        CPF = cpf;
+       
+
+    
+
     }
-}
 
+    static void ImprimirAdvogados(IEnumerable<Advogado> advogados)
+    {
+        foreach (var advogado in advogados)
+        {
+            Console.WriteLine($"Advogado: {advogado.Nome}, CPF: {advogado.CPF}, CNA: {advogado.CNA}");
+        }
+    }
 
-
-
-
+   
 }

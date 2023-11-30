@@ -1,10 +1,5 @@
-using System;
 
-public enum EstadoCivil
-{
-    Solteiro,
-    Casado
-}
+using System;
 
 public abstract class Pessoa
 {
@@ -23,4 +18,10 @@ public abstract class Pessoa
     {
         return cpf.Length == 11 && cpf.All(char.IsDigit);
     }
+}
+
+public enum EstadoCivil
+{
+    Solteiro,
+    Casado
 }
