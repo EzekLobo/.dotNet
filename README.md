@@ -1,5 +1,5 @@
 # Nome do Projeto
-Residência Tic18
+Residência Tic18.
 
 ## Identificação do Discente
 
