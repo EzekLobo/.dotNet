@@ -34,5 +34,34 @@ desenvolvimento: Instalação do .NET Core SDK e IDE.
 07. Operadores Lógicos
 08. Desafio de Mistura de Operadores
 
+## Branch: NET-P002
+- Objetivo: Desenvolver um sistema de gerenciamento de tarefas que permita aos usuários criar, 
+visualizar e gerenciar tarefas.
 
+Requisitos do Projeto:
+
+• O sistema deve permitir a criação de tarefas, incluindo um título, descrição e data de 
+vencimento.
+• Deve ser possível listar todas as tarefas criadas.
+• Os usuários devem poder marcar tarefas como concluídas.
+• O sistema deve fornecer uma lista de tarefas pendentes e uma lista de tarefas 
+concluídas.
+• Os usuários devem ser capazes de excluir tarefas.
+• Implemente uma pesquisa que permita aos usuários encontrar tarefas com base em 
+palavras-chave.
+• O sistema deve fornecer estatísticas básicas, como o número de tarefas concluídas e 
+pendentes, a tarefa mais antiga e a tarefa mais recente.
+
+
+## Branch: NET-P003
+- Objetivo: Desenvolver um sistema de gerenciamento de estoque que utiliza conceitos de tuplas, 
+expressões lambda, LINQ e tratamento de exceções.
+
+Desenvolvimento:
+• Produto
+• Cadastro de Produtos
+• Consulta de Produtos
+• Atualização de Estoque
+• Relatórios
+ 
 
