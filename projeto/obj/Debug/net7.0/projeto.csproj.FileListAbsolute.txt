@@ -1,0 +1,14 @@
+C:\Users\Acer\OneDrive\Área de Trabalho\residencia\.dotNet\projeto\obj\Debug\net7.0\projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Área de Trabalho\residencia\.dotNet\projeto\obj\Debug\net7.0\projeto.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Área de Trabalho\residencia\.dotNet\projeto\obj\Debug\net7.0\projeto.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Área de Trabalho\residencia\.dotNet\projeto\obj\Debug\net7.0\projeto.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Área de Trabalho\residencia\.dotNet\projeto\bin\Debug\net7.0\projeto.exe
+C:\Users\Acer\OneDrive\Área de Trabalho\residencia\.dotNet\projeto\bin\Debug\net7.0\projeto.deps.json
+C:\Users\Acer\OneDrive\Área de Trabalho\residencia\.dotNet\projeto\bin\Debug\net7.0\projeto.runtimeconfig.json
+C:\Users\Acer\OneDrive\Área de Trabalho\residencia\.dotNet\projeto\bin\Debug\net7.0\projeto.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\residencia\.dotNet\projeto\bin\Debug\net7.0\projeto.pdb
+C:\Users\Acer\OneDrive\Área de Trabalho\residencia\.dotNet\projeto\obj\Debug\net7.0\projeto.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\residencia\.dotNet\projeto\obj\Debug\net7.0\refint\projeto.dll
+C:\Users\Acer\OneDrive\Área de Trabalho\residencia\.dotNet\projeto\obj\Debug\net7.0\projeto.pdb
+C:\Users\Acer\OneDrive\Área de Trabalho\residencia\.dotNet\projeto\obj\Debug\net7.0\projeto.genruntimeconfig.cache
+C:\Users\Acer\OneDrive\Área de Trabalho\residencia\.dotNet\projeto\obj\Debug\net7.0\ref\projeto.dll
